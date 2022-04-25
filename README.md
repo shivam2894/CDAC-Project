@@ -29,7 +29,7 @@
 ------------
 
 #### Prerequisites
-- JDK 11 and preffered editor (Eclipse / STS / IntelliJ)
+- JDK 11 and preferred editor (Eclipse / STS / IntelliJ)
 - MySQL
 - NodeJS
 
@@ -38,12 +38,12 @@
 
 #### Setup
 1. Download the zip file or clone this repository
-`git clone https://github.com/PG-DAC-Sept-2021-Project/NattuKakaApp.git`
+`git clone https://github.com/shivam2894/CDAC-Project.git`
 
-2. Open `NattuKakaApp-backend` folder in Eclipse / STS
-3. Edit `NattuKakaApp-backend/src/main/resources/application.properties` file as per your configuration
+2. Open `Backend` folder in Eclipse / STS
+3. Edit `Backend/src/main/resources/application.properties` file as per your configuration
 4. Run the Spring Boot Application
-5. Run the queries provided in `NattuKakaApp-backend/src/main/resources/sqlQueries/userRoles` in the created database `nk`
-5. Open `NattuKakaApp-frontend` folder in your preffered editor and run `npm install` to install all dependencies
+5. Run the queries provided in `Backend/src/main/resources/sqlQueries/userRoles` in the created database `nk`
+5. Open `Frontend` folder in your preffered editor and run `npm install` to install all dependencies
 6. Run `npm run dev` and access the development server on `http://localhost:3000` on your browser
 
